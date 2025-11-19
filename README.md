@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nusrat Islam Bonna</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh.Love to learning new skills.</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh.Love to learn new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-islam&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-islam" /> </p>
 
