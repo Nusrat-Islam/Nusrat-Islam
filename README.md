@@ -1,8 +1,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Nusrat%20Islam%20Bonna&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Nusrat Islam Bonna banner" />
-
-  <h3>Building modern, responsive and user-friendly web applications</h3>
+ <h3>Building modern, responsive and user-friendly web applications</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Nusrat-Islam&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
 </div>
