@@ -60,17 +60,27 @@ a developer from Bangladesh who enjoys building modern web applications and lear
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nusrat-Islam&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
+
 ## 🟩 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/2563eb/Nusrat-Islam" alt="Nusrat's GitHub contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/2ea44f/Nusrat-Islam" alt="Nusrat's GitHub green contribution graph" width="100%" />
 </div>
+
 
 ---
 
 <div align="center">
   <i>"Keep learning, keep building, and keep growing."</i>
 </div>
+
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nusrat-Islam/Nusrat-Islam/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
+</div>
+
 
 
 
