@@ -61,23 +61,6 @@ a developer from Bangladesh who enjoys building modern web applications and lear
 </div>
 
 
-## 🟩 Contribution Activity
-
-<div align="center">
-  <img
-    src="https://ghchart.rshah.org/2ea44f/Nusrat-Islam"
-    alt="GitHub contribution graph with dates and activity"
-    width="100%"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/Nusrat-Islam/Nusrat-Islam/output/snake.svg"
-    alt="Animated contribution snake"
-    width="100%"
-  />
-</div>
-
-
 ---
 
 <div align="center">
